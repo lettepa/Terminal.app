@@ -1,12 +1,12 @@
-# .template
+# Terminal.app
 
-Lettepa for [???]
+Lettepa for [Terminal.app]
 
-[???]: this_is_a_placeholder
+[Terminal.app]: https://support.apple.com/guide/terminal/welcome/mac
 
 ## License
 
-Like [Lettepa], the ??? port of Lettepa is licensed under the [MIT License].
+Like [Lettepa], the Terminal.app port of Lettepa is licensed under the [MIT License].
 
 [Lettepa]: https://github.com/lettepa/lettepa
 [MIT License]: LICENSE
